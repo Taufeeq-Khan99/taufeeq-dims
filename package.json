@@ -1,6 +1,6 @@
 {
   "name": "@taufeeq-npm/taufeeq-project",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "```bash\r npm i \"@taufeeq-npm/taufeeq-project\r ```",
   "main": "index.js",
   "scripts": {
